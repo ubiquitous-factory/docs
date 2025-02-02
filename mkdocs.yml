@@ -6,6 +6,7 @@ theme:
   name: material
   features:
     - navigation.indexes
+    - navigation.expand
   logo: assets/logo.png
   palette:
     primary: white
@@ -56,9 +57,10 @@ nav:
   - Overviews:
       - overviews/architecture.md
       - overviews/why-bootc.md
-  - How Tos:
+      - overviews/scenarios.md
+  - Tutorials:
       - howto/index.md
-      - howto/coras-getting-started.md
+      - howto/getting-started.md
   - Blog:
      - blog/index.md
      - blog/tags.md

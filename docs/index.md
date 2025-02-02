@@ -14,6 +14,6 @@ Mehal Technologies offers supported builds of these components and offers SaaS s
 
 1. 👞 [Brog](https://github.com/ubiquitous-factory/brog) - A GitOps client service that manages operating system upgrades and rollbacks
 
-1. ⚙️ [Amrite](https://github.com/ubiquitous-factory/amrite) - A container runtime with support for WASI and OCI Containers based on [crun](https://github.com/containers/crun) and [podman](https://podman.io/). 
+1. ⚙️ [Amrite](https://github.com/ubiquitous-factory/amrite) - A container runtime with support for WASI and OCI Containers based on [crun](https://github.com/containers/crun). 
 
 1. 🎛️ [Quadit](https://github.com/ubiquitous-factory/quadit) - An GitOps client service to manage container deployments
