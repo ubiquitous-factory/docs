@@ -1,12 +1,14 @@
 # Architecture 
 
-The Ubiquitous Factory architecture is designed to be composable. Specifically the components are designed in such a way that they work together but each one can be deployed without a hard dependency on another. This is different than most vertically integrated IoT technologies that tend to be are tightly coupled and usually lead to the adoption of specific hardware and operating system and management systems. They also tend to be very prescriptive on how builds, deployment and overall management are performed.
+The Ubiquitous Factory architecture is designed to be composable. Specifically, each components interface in such a way that they work together but a single one can be deployed without a hard dependency on another. A key priority for the project is that a fully functional system should be deployable with all the components without requiring any proprietary technology.
 
-The intent here is to embrace the cloud native ecosystem approach as much as possible to provide closer alignment with the way your whole business builds and deploys technology. 
+This is different than most vertically integrated IoT technologies that tend to hide the implementation details which can lead to a tight coupling scenario and this has the knock on effect of being difficult to integrate with other processes to the point where they also tend to be very prescriptive on how builds, deployment and overall management are performed.
 
-Put simply: You shouldn't have to keep a gorilla just because you want a banana. 
+The intent here is to embrace cloud native approaches as much as possible to provide closer alignment with the way a whole business builds and deploys technology not just to the edge but to the cloud. 
 
-The following diagram depicts how this point of view maps out in terms of the components in a typical smart edge deployment.
+Put simply: You shouldn't get a gorilla just because you want a banana. 
+
+The following diagram depicts how this point of view maps out in terms of the components in a typical smart edge deployment with comparable components from the eco-system to illustrate how different parts of the stack can co-exist together.
 
 ![component diagram](/assets/components.png)
 

@@ -1,6 +1,8 @@
 # Scenarios 
 
-Now lets look at some scenarios: 
+This page is a starting point for understanding if some or all of the components are a fit for your edge use case.
+
+It's intentionally informal so please feel free to [open a discussion](https://github.com/orgs/ubiquitous-factory/discussions) if more details are required. 
 
 Q. I have 1 or 2 services that is unlikely to change in the near future what's the best option? 
 

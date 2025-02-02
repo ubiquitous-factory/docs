@@ -64,3 +64,4 @@ nav:
   - Blog:
      - blog/index.md
      - blog/tags.md
+  - Discussions: https://github.com/orgs/ubiquitous-factory/discussions

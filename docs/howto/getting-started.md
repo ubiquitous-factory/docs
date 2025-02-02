@@ -3,9 +3,11 @@ date:
   created: 2025-02-01
 ---
 
-# Getting Started
+# Getting Started [DRAFT]
 
 The aim of this tutorial is to get an image-mode operating system that you have customised using GitOps running in a virtual machine.
+
+It aims to illustrate what the [inner dev loop](https://www.linkedin.com/pulse/dev-inner-outer-loop-overlap-opportunity-ben-de-st-paer-gotch/) will look like for the team members that need to update the deployment image.
 
 Further tutorials will be supplied on how you can migrate that to a full image for deploying onto a device but let's get the basics in first.
 
