@@ -16,7 +16,7 @@ In the comparison below we see an 80% improvement in effort - Going from 2 deplo
 
 
 ### Traditional Cloud Build System
-![Traditional Cloud Build Systems](/assets/brog-deployment-trad.png)
+![Traditional Cloud Build Systems](../assets/brog-deployment-trad.png)
 
 The times on the above diagram are fair and may even be a little light.
 
@@ -31,7 +31,7 @@ The times on the above diagram are fair and may even be a little light.
 So it's around 170+ mins from change to deploy.
 
 ### Container Based Operating System
-![Modern Cloud Build Systems](/assets/brog-deployment-modern.png)
+![Modern Cloud Build Systems](../assets/brog-deployment-modern.png)
 
 The times on the above diagram will vary on the build time of the app you're deploying but match what we see during delivery.
 

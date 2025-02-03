@@ -10,6 +10,6 @@ Put simply: You shouldn't get a gorilla just because you want a banana.
 
 The following diagram depicts how this point of view maps out in terms of the components in a typical smart edge deployment with comparable components from the eco-system to illustrate how different parts of the stack can co-exist together.
 
-![component diagram](/assets/components.png)
+![component diagram](../assets/components.png)
 
-[drawio version](/assets/components.drawio)
+[drawio version](../assets/components.drawio)

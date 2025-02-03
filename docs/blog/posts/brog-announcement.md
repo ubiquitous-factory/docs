@@ -9,7 +9,7 @@ tags:
 # Announcing Brog 
 ## An open source GitOps tool for bootc systems.
 
-Over the past year at [Mehal Technologies](https://mehal.tech/) we've been deploying [bootable containers (bootc)](https://docs.fedoraproject.org/en-US/bootc/getting-started/) at the edge in production environments. Bootc is a massive productivity boost and as outlined in [the documentation](/overviews/why-bootc) it improves deployment cycles by **80%** even in scenarios where hardware peripheral integration is a key part of the validation cycle
+Over the past year at [Mehal Technologies](https://mehal.tech/) we've been deploying [bootable containers (bootc)](https://docs.fedoraproject.org/en-US/bootc/getting-started/) at the edge in production environments. Bootc is a massive productivity boost and as outlined in [the documentation](../../overviews/why-bootc.md) it improves deployment cycles by **80%** even in scenarios where hardware peripheral integration is a key part of the validation cycle
 
 This enables our partners to get to market faster.
 
@@ -25,6 +25,6 @@ Given the above issues we decided to build [brog](https://github.com/ubiquitous-
 
 Brog directly addresses items 1 and 2 and we will be making further announcements on how brog integrates with [clos - the mehal cloud platform](https://mehal.tech) to provide incremental roll outs (A.K.A Canary Deploys) to solve for item 3 end to end. 
 
-A tutorial on how to use brog is [available](howto/coras-getting-started) and there will be making further announcements in the near future.
+A tutorial on how to use brog is [available](../../howto/getting-started.md) and there will be making further announcements in the near future.
 
 If you want to know more about the brog roadmap or need help deploying it then please reach out to admin@mehal.tech.

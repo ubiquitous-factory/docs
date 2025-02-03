@@ -21,7 +21,7 @@ Q. I'm currently using my own instance of [Open Horizon](https://open-horizon.gi
 
 Q. My company has standardised on Circle CI for builds, uses bitbucket for source code and has there own private ECR instance on AWS. All of these services have enterprise controls in place can I still use Ubiquitous Factory?
    
-   Of course - We have intentionally designed the system to integrate with industry standard devops tools - Ubiquitous Factory's aim is to utilse these services for the edge not rewrite them. See the [getting started](/howto/getting-started) for how external services are integrated. 
+   Of course - We have intentionally designed the system to integrate with industry standard devops tools - Ubiquitous Factory's aim is to utilse these services for the edge not rewrite them. See the [getting started](../howto/getting-started.md) for how external services are integrated. 
 
 Q. The developers at my company prefer Docker over podman can we still use [coras](https://mehal.tech/login) to manage operating system updates? 
 
