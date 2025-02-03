@@ -31,7 +31,7 @@ In this section we are going to create a repository so we can define a custom im
 **1. Clone the template**: Go to the [getting started](https://github.com/ubiquitous-factory/getting-started) and the `Use this template button` at the top right of the screen - Time (1 min)
 
 
-![Use this template](/assets/clone-template.png) 
+![Use this template](../assets/clone-template.png) 
 
 **2. Repository Options**: 
 
@@ -40,11 +40,11 @@ In this section we are going to create a repository so we can define a custom im
    * Make the project public 
    * Finally create a copy of the project.
 
-![Repo Options](/assets/create-repository.png)
+![Repo Options](../assets/create-repository.png)
 
 **3. New Project**: You should now have a pristine repo to work with
 
-   ![New Repo](/assets/new-repo.png)
+   ![New Repo](../assets/new-repo.png)
 
 ### Configure CI/CD (20 mins)
 
@@ -86,7 +86,7 @@ In this section we are going to create a repository so we can define a custom im
 
 **6. Monitor the build**: The build should take ~5 mins to run and will generate a package in the repository
 
-![github action](/assets/gitub-action-running.png)
+![github action](../assets/github-action-running.png)
 
 **7. Make the package public**: Documentation on making the package public is available [here](https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility) but the following steps should work. 
 
@@ -99,13 +99,13 @@ In this section we are going to create a repository so we can define a custom im
    ```bash
    podman-bootc run --filesystem xfs ghcr.io/no9/getting-started:3380fcc0757aae54f7b2483e2b707a9284f03612
    ```
-![login screen](/assets/login-screen.png)
+![login screen](../assets/login-screen.png)
 
 **9. Inspect the brog status**: In the terminal run the following command
    ```bash 
    systemctl status brog
    ```
-![login screen](/assets/systemctl-output.png)
+![login screen](../assets/systemctl-output.png)
 
 ### Use GitOps to update the image
 
